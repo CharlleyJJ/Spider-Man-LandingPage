@@ -2,6 +2,7 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    font-family: 'Mukta', sans-serif;
 }
 @import 'partials/_colors';
 @import 'partials/_spacing';
@@ -23,6 +24,16 @@ a{
     color: $white;
 }
 
+.border{
+border: 1px, red;
+}
+
+p{
+    font-size: 14px;
+    color: $gray-3;
+    letter-spacing: 1px;
+    line-height:140%;
+}
 @import 'partials/_layout';
 @import 'partials/_menu';
 @import 'partials/_buttons';
