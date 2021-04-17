@@ -26,6 +26,10 @@
     li{
         margin-left: 24px;
     }
+
+    @include responsive(){
+        display: none;
+    }
 }
 
 .logo{
@@ -68,12 +72,14 @@
             height: 40px;
         }
     }
+    
 
 }
 
+
 .nav-social{
     display: flex;
-
+    padding-left: 40%;//estranho ..
     svg{
         cursor: pointer;
 
@@ -89,5 +95,69 @@
                 transform: translate3d(0,-3px,0);
             }
         }
+
+        @include responsive(){
+            display: none;
+        }
     }
 }
+
+    
+.bx{
+ 
+    display:none;
+
+    @include responsive(){
+        display: block;
+        width: 48px;
+        height: 48px;
+        border-radius: 8px;
+        position: relative;
+        cursor: pointer;
+    }
+}
+
+.bx:after{
+    content: '';
+
+    position: absolute;
+    top: 30%;
+    left: 16%;
+    width: 32px;
+    height: 10%;
+    background-color: #fff;
+    border-radius: 8px;
+    transition: 1s ease;
+
+}
+
+.bx::before{
+    content: '';
+
+    position: absolute;
+    top: 60%;
+    left: 40%;
+    width: 20px;
+    height: 10%;
+    background-color: #fff;
+    border-radius: 8px;
+    transition: 1s ease;
+
+}
+
+#x-tudo:checked ~ label .bx:after{
+    background-color: #EA1D22;
+    transform: rotate(225deg);
+    top: 45%;
+    left: 16%;
+}
+
+#x-tudo:checked ~ label .bx:before{
+    background-color: #EA1D22;
+    transform: rotate(-405deg);
+    top: 45%;
+    left: 16%;
+    width: 32px;
+}
+
+

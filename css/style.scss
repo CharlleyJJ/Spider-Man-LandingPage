@@ -25,7 +25,7 @@ a{
 }
 
 .border{
-border: 1px, red;
+border: 1px, solid red;
 }
 
 p{
@@ -38,4 +38,5 @@ p{
 @import 'partials/_menu';
 @import 'partials/_buttons';
 @import 'partials/_animations';
+@import 'partials/_spacing.scss';
 
