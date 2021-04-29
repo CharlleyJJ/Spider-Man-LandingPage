@@ -2,20 +2,12 @@
 A "Landing Page - Website" from the movie: Spider Man Miles Morales
 
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
   <a href="https://github.com/CharlleyJJ/Spider-Man-LandingPage">
-    <img src="img/spiderman-text.png" alt="Logo" width="80" height="80">
+    <img src="img/spiderman-text.png" alt="Logo" width="240" height="320">
   </a>
 
   <h3 align="center"> Advertisement Website</h3>
