@@ -160,4 +160,4 @@ Project Link: [https://github.com/CharlleyJJ/Spider-Man-LandingPage](https://git
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [issues-url]: https://github.com/CharlleyJJ/Spider-Man-LandingPage/issues
 [linkedin-url]: https://www.linkedin.com/in/charlley-j-jabbar/
-[product-screenshot]: img/screenshot1.png
+[product-screenshot]: img/2021-04-29 07-47-02 (1).gif
