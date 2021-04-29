@@ -49,6 +49,7 @@ A "Landing Page - Website" from the movie: Spider Man Miles Morales
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
+    <li><a href="#credits">Credits</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
@@ -145,7 +146,10 @@ Charlley JJ - Over here on github you can contact me for now, until my portfolio
 
 Project Link: [https://github.com/CharlleyJJ/Spider-Man-LandingPage](https://github.com/CharlleyJJ/Spider-Man-LandingPage)
 
+<!-- CREDITS -->
+## Credits
 
+Made with love by Me and Násser Yousef Ali
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
