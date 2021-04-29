@@ -58,7 +58,10 @@ A "Landing Page - Website" from the movie: Spider Man Miles Morales
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<p align="center">
+  <a href="https://github.com/CharlleyJJ/Spider-Man-LandingPage/img/2021-04-29 07-47-02 (1).gif">
+    <img src="img/spiderman-text.png" alt="Logo" width="1920" height="1680">
+  </a>
 
 Taking my skill to another level, this month I tried a new approach to webdesign a pixel perfect movie advertivesement website.
 Inspired in many other posters and screenshots from the spider-man series, this project is a neatly approach to the newest movie of the franchise.
@@ -160,4 +163,3 @@ Project Link: [https://github.com/CharlleyJJ/Spider-Man-LandingPage](https://git
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [issues-url]: https://github.com/CharlleyJJ/Spider-Man-LandingPage/issues
 [linkedin-url]: https://www.linkedin.com/in/charlley-j-jabbar/
-[product-screenshot]: https://github.com/CharlleyJJ/Spider-Man-LandingPage/img/2021-04-29 07-47-02 (1).gif
