@@ -7,7 +7,7 @@ A "Landing Page - Website" from the movie: Spider Man Miles Morales
 <br />
 <p align="center">
   <a href="https://github.com/CharlleyJJ/Spider-Man-LandingPage">
-    <img src="img/spiderman-text.png" alt="Logo" width="240" height="320">
+    <img src="img/spiderman-text.png" alt="Logo" width="160" height="120">
   </a>
 
   <h3 align="center"> Advertisement Website</h3>
