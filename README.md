@@ -61,7 +61,7 @@ A "Landing Page - Website" from the movie: Spider Man Miles Morales
 
 <p align="center">
   <a href="https://github.com/CharlleyJJ/Spider-Man-LandingPage/img/2021-04-29 07-47-02 (1).gif">
-    <img src="img/2021-04-29 07-47-02 (1).gif" alt="Logo" width="500" height="380">
+    <img src="img/2021-04-29 07-47-02 (1).gif" alt="Logo" width="500" height="340">
   </a>
 
 Taking my skill to another level, this month I tried a new approach to webdesign a pixel perfect movie advertivesement website.
