@@ -18,7 +18,7 @@ A "Landing Page - Website" from the movie: Spider Man Miles Morales
     <a href="https://github.com/CharlleyJJ/Spider-Man-LandingPage"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/CharlleyJJ/Spider-Man-LandingPage">View Demo</a>
+    <a href="https://spider-man-game-advertisement.vercel.app/">View Demo</a>
     ·
     <a href="https://github.com/CharlleyJJ/Spider-Man-LandingPage/issues">Report Bug</a>
     ·
@@ -110,15 +110,6 @@ This is an example of how to list things you need to use the software and how to
 4. Start Messing around
 
 
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-(PROJECT GIF in DEVELOPMENT)
-
-_For more examples, please refer to the (DEMO hosting steps in future updates)
-
-
 <!-- CONTRIBUTING -->
 ## Contributing
 
@@ -165,5 +156,6 @@ Made with love by Me and Násser Yousef Ali
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[demo-url]: https://spider-man-game-advertisement.vercel.app/
 [issues-url]: https://github.com/CharlleyJJ/Spider-Man-LandingPage/issues
 [linkedin-url]: https://www.linkedin.com/in/charlley-j-jabbar/
